@@ -28,7 +28,7 @@ header, footer, section {
 
 .hero {
   min-height: 100vh; 
-  background-image: url('images/valorant.jpg');
+  background-image: url('valorant.jpg');
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
